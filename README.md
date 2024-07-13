@@ -1,4 +1,6 @@
 # AnonyVent
+![alt text](https://images.freeimages.com/image/previews/05c/retro-tape-icon-png-5694076.png?fmt=webp&w=500)
+
 Features
 Anonymity: Post your thoughts without revealing your identity.
 Categories: Organize vents by categories for better visibility.
